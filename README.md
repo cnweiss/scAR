@@ -1,2 +1,4 @@
 # scAR
-R codes for class of scAR models
+Simulating and fitting scAR models.
+
+R codes used for simulations and data analysis.
